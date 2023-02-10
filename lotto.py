@@ -18,6 +18,6 @@ for i in range(0, 6):
 lottery_numbers.sort()
 
 # Print the list output on screen:
-print(">>> Today's winning numbers are: ")
+print(">>> Today's lucky numbers are: ")
 print(lottery_numbers)
 
